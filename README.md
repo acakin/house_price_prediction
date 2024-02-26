@@ -1,4 +1,4 @@
-## House Prices: Advanced Regression Techniques
+## House Prices Ames Dataset
 
 ### Description
 
@@ -93,3 +93,5 @@ This dataset includes several features of residential homes in Ames, Iowa. The g
 - **YrSold**: year sold
 - **SaleType**: type of sale
 - **SaleCondition**: condition of sale
+### Citation
+DanB. (2018). Housing Prices Competition for Kaggle Learn Users. Kaggle. https://kaggle.com/competitions/home-data-for-ml-course
